@@ -67,7 +67,7 @@ Real and trusted platform for sub 4 sub..
 Channel for promotion, click below youtube channel name</h1></i></div>
 <div align = "center">
 <a href = "https://www.youtube.com/results?search_query=rr+rasoighar">
- <h1> RR Rasoighar</h1>
+ <h1> RR Rasoighar</h1></a>
 <br><hr style = "color:red"><br>
 
 Click on the button below as by your choice for sub 4 sub
