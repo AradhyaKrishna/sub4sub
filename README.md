@@ -1,6 +1,6 @@
 # <html>
 <head>
-<title>Real and trusted platform for sub 4 sub..</title>
+Real and trusted platform for sub 4 sub..
 <font color = "grey" size = "55">
 
 <b> Must read below for many quaries</B>
