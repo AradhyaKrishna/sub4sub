@@ -29,10 +29,9 @@ Real and trusted platform for sub 4 sub..
 </b>
 <br>
 
-<i>⚪Don't try to skip video we will check in youtube studio as given below, we can check live watch also
+<i>⚪Don't try to skip video we will check in youtube studio , we can check live watch also
 </i></h1>
 
-<img src = "file:///C:/Users/Himanshu%20krishna/Desktop/Screenshot_20201101-221540.png">
 
 <h1><i>⚪Click on sub button after watch... note!! don't click before</i></h1>
 
@@ -65,11 +64,10 @@ Real and trusted platform for sub 4 sub..
 <br><br>
 <div align = "center" > <h1><a href ="https://www.youtube.com/results?search_query=aradhya+krishna"> <i style="color:orange">Aradhya Krishna
 </a><br></i><i style = "color:pink">
-Channel for promotion, click below youtube channel button</h1></i></div>
+Channel for promotion, click below youtube channel name</h1></i></div>
 <div align = "center">
 <a href = "https://www.youtube.com/results?search_query=rr+rasoighar">
-<img src = "1604586220581.png" height = "250" width = "250"></a>
-
+ <h1> RR Rasoighar</h1>
 <br><hr style = "color:red"><br>
 
 Click on the button below as by your choice for sub 4 sub
