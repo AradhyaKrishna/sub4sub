@@ -65,9 +65,8 @@ Real and trusted platform for sub 4 sub..
 <div align = "center" > <h1><a href ="https://www.youtube.com/results?search_query=aradhya+krishna"> <i style="color:orange">Aradhya Krishna
 </a><br></i><i style = "color:pink">
 Channel for promotion, click below youtube channel name</h1></i></div>
-<div align = "center">
-<a href = "https://www.youtube.com/results?search_query=rr+rasoighar">
- <h1> RR Rasoighar</h1></a>
+
+<a href = "https://www.youtube.com/results?search_query=rr+rasoighar">RR Rasoighar</a>
 <br><hr style = "color:red"><br>
 
 Click on the button below as by your choice for sub 4 sub
