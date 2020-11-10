@@ -32,7 +32,7 @@ Real and trusted platform for sub 4 sub..
 <i>⚪Don't try to skip video we will check in youtube studio as given below, we can check live watch also
 </i></h1>
 
-<img src = "Screenshot_20201101-221540.png" width="500" height="550">
+<img src = "file:///C:/Users/Himanshu%20krishna/Desktop/Screenshot_20201101-221540.png">
 
 <h1><i>⚪Click on sub button after watch... note!! don't click before</i></h1>
 
